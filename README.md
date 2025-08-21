@@ -34,7 +34,7 @@ npm install
 3. Configure o agente da ElevenLabs
 - Abra `index.html` e substitua o valor do atributo `agent-id` pelo ID do seu agente:
   - Arquivo: `index.html`
-  - Elemento: `<elevenlabs-convai agent-id="agent_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" />`
+  - Elemento: `<elevenlabs-convai agent-id="agent_3501k2yvw50jenna565wh7b7kvtp" />`
 4. Rode em desenvolvimento
 ```bash
 npm run dev
